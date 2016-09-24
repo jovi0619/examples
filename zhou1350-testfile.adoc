@@ -5,7 +5,7 @@
 require 'sinatra'
 
 get '/hi' do
-  "Hello World!"
+  "Hello Mars!"
 
 end
 ----
